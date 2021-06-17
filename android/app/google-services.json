@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "483288727773",
+    "project_id": "messenger-7e26c",
+    "storage_bucket": "messenger-7e26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483288727773:android:7fa782559099678eb3db34",
+        "android_client_info": {
+          "package_name": "com.anurag.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483288727773-7ut1or6603eljo9ttna144m4gb7t4lc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsXtOY9qtho3T9Lpu5Yu15HhsKDM495o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483288727773-7ut1or6603eljo9ttna144m4gb7t4lc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483288727773-ugnder7ivvu8411ks9utqtb9k8qf1utc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.anurag.messenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -4,7 +4,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/WarMac4964/BaatCheet.git
+   git clone https://github.com/WarMac4964/Messenger.git
    ```
 2. Inside the project folder run
    ```sh
